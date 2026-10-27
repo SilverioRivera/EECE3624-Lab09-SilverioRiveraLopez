@@ -1,3 +1,5 @@
+#include <ZumoShield.h>
+
 #include <Wire.h>
 #include <ZumoShield.h>
 
